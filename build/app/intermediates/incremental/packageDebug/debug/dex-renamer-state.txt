@@ -1,0 +1,4 @@
+#Sun Sep 23 19:54:33 IST 2018
+base.0=/Users/raghiii/Documents/whatsappclone/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
